@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d4fa2e6-e0e9-4879-9d9f-ba4f6c391393" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_app/Email.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/composer/InstalledVersions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/composer/installed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/composer/installed.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/composer/platform_check.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/COMMITMENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/SECURITY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/VERSION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/get_oauth_token.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-af.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-ar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-az.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-ba.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-be.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-bg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-ca.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-cs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-da.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-de.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-el.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-eo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-es.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-et.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-fa.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-fi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-fo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-fr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-gl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-he.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-hi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-hr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-hu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-hy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-id.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-it.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-ja.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-ka.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-ko.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-lt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-lv.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-mg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-mn.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-ms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-nb.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-nl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-pl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-pt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-pt_br.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-ro.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-ru.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-sk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-sl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-sr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-sr_latn.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-sv.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-tl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-tr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-uk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-vi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-zh.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/language/phpmailer.lang-zh_cn.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/src/DSNConfigurator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/src/Exception.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/src/OAuth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/src/OAuthTokenProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/src/PHPMailer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/src/POP3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer/src/SMTP.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/lib_ext/composer" />
+      <path value="$PROJECT_DIR$/lib_ext/phpmailer/phpmailer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2SaTwDqJbmupF9nWhPLb2pUrcOr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d4fa2e6-e0e9-4879-9d9f-ba4f6c391393" name="Changes" comment="" />
+      <created>1689383928602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689383928602</updated>
+      <workItem from="1689383930148" duration="7338000" />
+      <workItem from="1689726733296" duration="18137000" />
+      <workItem from="1690849476631" duration="1556000" />
+      <workItem from="1691025755738" duration="7120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,31 @@
+{
+    "name": "roger/notification",
+    "description": "This is a library that uses composer as the basis for generating email notifications",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Roger\\Notification\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rogerio",
+            "email": "martins_2976@yahoo.com.br",
+            "homepage": "https://www.upinside.com.br",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpmailer/phpmailer": "6.8.0"
+    },
+    "config": {
+        "vendor-dir": "lib_ext"
+    },
+    "autoload": {
+        "psr-4": {
+            "notification\\": "_app"
+        }
+    }
+}
